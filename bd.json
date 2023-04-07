@@ -1,0 +1,18 @@
+[{
+    "nombre": "mecanica automotriz",
+    "alumnos": [{
+        "nombre": "jorge",
+        "apellido": "vergara",
+        "materias": [{
+            "nombre": "electricidad automotriz",
+            "profesor": {"nombre": "Rafaela"
+            },
+            "matriculado": true,
+            "nota": 8
+
+        },{
+            
+        }] 
+    }]
+
+}]
